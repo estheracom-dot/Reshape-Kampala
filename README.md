@@ -69,7 +69,7 @@ Bash
 npm run test
 Current coverage: 32 tests passing (catalogue filters, search, per-field fallback, Decimal handling, basket stock caps).
 
-reshape-kampala/
+Reshape-kampala/Architecture
 ├── app/
 │   ├── [lang]/                     # Dynamic routing for English, Luganda, Kiswahili, French
 │   │   ├── jars/
